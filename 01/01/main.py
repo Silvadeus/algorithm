@@ -3,7 +3,6 @@
     Homework #1.1
 '''
 
-    
 def multiple_finder(a, b, c):
     if (a > b):
         more, less = a, b
